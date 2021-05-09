@@ -1,6 +1,6 @@
 # Principles
 
-## Do NOT give up until forced all-in
+## NEVER give up until forced all-in
 
 There will always be a possible chance with continuous tries.
 
