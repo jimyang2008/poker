@@ -22,11 +22,12 @@ For example, you can push all-in for a pair of 77 or AKo with 20+ BB. But you ca
 
 * Bet with strong hand or weak hand but has great potential(backdoor draw)
 * Check with medium hand for show down
-* Fold junk hand with no potential
+* Fold junk hand
 
 ## How to play a pair
 
-* Check with strong hand or medium hand
-* Bet with weak hand but with great potential
+* Check with strong hand or weak hand
+* Bet with medium hand or weak hand but with great potential
+* Fold junk hand
 
 
