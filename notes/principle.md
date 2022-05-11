@@ -18,4 +18,15 @@ It is always more desirable to initiate a battle rather than respond one.
 
 For example, you can push all-in for a pair of 77 or AKo with 20+ BB. But you cannot call all-in for the same hand.
 
+## Bet with polarized range, check with linear range
+
+* Bet with strong hand or weak hand but has great potential(backdoor draw)
+* Check with medium hand for show down
+* Fold junk hand with no potential
+
+## How to play a pair
+
+* Check with strong hand or medium hand
+* Bet with weak hand but with great potential
+
 
