@@ -1,0 +1,10 @@
+scenario:
+  repeats: 2
+
+  hero_cards: [Ah, Th]
+  opponent_cards: [Kd, Ks]
+
+  board:
+    flop: [Qh, Jh, 3c]
+    turn: [9d]
+    river: [2s]

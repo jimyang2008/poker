@@ -1,0 +1,10 @@
+scenario:
+  mode: monte_carlo
+  repeats: 10000
+
+  hero_cards: [Ah, Th]
+  opponent_cards: [Kd, Ks]
+
+  board:
+    flop: [Qh, Jh, 3c]
+

@@ -1,0 +1,49 @@
+hero:
+  flop:
+    heads_up:
+      MONSTER:
+        action: BET
+        size: BIG
+      STRONG:
+        action: BET
+        size: MEDIUM
+      DRAW:
+        action: BET
+        size: SMALL
+      AIR:
+        action: CHECK
+
+  turn:
+    after_bet:
+      MONSTER:
+        action: BET
+        size: BIG
+      STRONG:
+        action: BET
+        size: MEDIUM
+      DRAW:
+        action: CHECK
+      AIR:
+        action: CHECK
+
+  river:
+    value:
+      MONSTER:
+        action: BET
+        size: BIG
+      STRONG:
+        action: CHECK
+      DRAW:
+        action: CHECK
+      AIR:
+        action: CHECK
+
+    facing_bet:
+      MONSTER:
+        action: CALL
+      STRONG:
+        action: FOLD
+      DRAW:
+        action: FOLD
+      AIR:
+        action: FOLD

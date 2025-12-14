@@ -1,0 +1,14 @@
+lag:
+  preflop:
+    play_freq: 0.85
+
+  flop:
+    vs_check_bet_freq: 0.7
+    vs_bet_call_freq: 0.6
+
+  turn:
+    barrel_freq: 0.5
+
+  river:
+    bluff_freq: 0.25
+
